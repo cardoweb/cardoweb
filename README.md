@@ -1,11 +1,14 @@
-# Perfil de GitHub para Cardo Productora Audiovisual
-Este repositorio de GitHub está destinado a presentar mi perfil de GitHub como desarrollador web para Cardo Productora Audiovisual. Aquí se pueden encontrar proyectos y códigos que he desarrollado para el sitio web de la productora.
-## Contacto
-Si desea ponerse en contacto conmigo para discutir un proyecto o colaboración, puede hacerlo a través de mi correo electrónico [correo electrónico] o mediante un mensaje privado en GitHub.
-# GitHub Profile for Cardo Audiovisual Production Company
-This GitHub repository is intended to present my GitHub profile as a web developer for Cardo Audiovisual Production Company. Here you can find projects and codes that I have developed for the company's website.
-## Contact
-If you would like to get in touch with me to discuss a project or collaboration, you can do so through my email [email address] or via a private message on GitHub.
+# Perfil de GitHub de Cardo Productora Audiovisual
+Este es el perfil de GitHub de Cardo Productora Audiovisual, destinado a compartir y colaborar en el desarrollo de su sitio web y proyectos relacionados. Aquí encontrarás el código fuente y la documentación del sitio web.
+
+## Acerca de Cardo Productora Audiovisual
+Cardo es una productora audiovisual con sede en La Plata, Buenos Aires, Argentina. Ofrecemos servicios de producción y postproducción de video, animación, diseño gráfico y web. Para obtener más información sobre nuestra empresa y nuestros servicios, visite nuestro sitio web en www.cardo.com.
+
+# GitHub Profile of Cardo Audiovisual Production Company
+This is the GitHub profile of Cardo Audiovisual Production Company, intended to share and collaborate on the development of their website and related projects. Here you will find the source code and documentation of the website.
+
+## About Cardo Audiovisual Production Company
+Cardo is an audiovisual production company based in Spain. We offer video production and post-production services, animation, graphic and web design. For more information about our company and services, visit our website at www.cardo.com.
 
 ## Developers
 Pieris129 & Goorezy
