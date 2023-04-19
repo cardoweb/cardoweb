@@ -11,4 +11,4 @@ This is the GitHub profile of Cardo Audiovisual Production Company, intended to 
 Cardo is an audiovisual production company based in Spain. We offer video production and post-production services, animation, graphic and web design. For more information about our company and services, visit our website at www.cardo.com.
 
 ## Developers
-Pieris129 & Goorezy
+Pieris128 & Goorezy
